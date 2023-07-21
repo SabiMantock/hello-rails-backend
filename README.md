@@ -97,7 +97,7 @@ In order to run this project you need:
 In desired folder or directory in the CLI, run the command:
 
 ```sh
-git clone git@github.com:SabiMantock/hello-rails-back-end.git
+git clone git@github.com:SabiMantock/hello-rails-backend.git
 ```
 
 Navigate into the cloned folder or repository by running the command:
@@ -184,7 +184,7 @@ localhost:3000
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/SabiMantock/hello-rails-back-end/issues).
+Feel free to check the [issues page](https://github.com/SabiMantock/hello-rails-backend/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
